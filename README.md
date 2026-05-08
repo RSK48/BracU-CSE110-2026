@@ -1,7 +1,7 @@
 # BracU-CSE110-2026
 <br>
 <H2><u>Assignment - 1</u></H2>
-<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/Assignment%2001-%20Introduction%20to%20Flowcharts%20and%20Java%20Programming.pdf">Questions</a>
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/Assignment%2001-%20Introduction%20to%20Flowcharts%20and%20Java%20Programming.pdf" target="_blank">Questions</a>
   <H4>Solutions</H4>
   
 ```
