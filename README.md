@@ -1469,7 +1469,122 @@ public class q3b{
   <H4>Solutions</H4>
   
 ```
-TO BE SOLVED
+//task 1
+import java.util.Scanner;
+
+public class task1{
+    public static void main (String [] agrs){
+        Scanner Sc = new Scanner (System.in);
+        int n = Sc.nextInt();
+
+        int x = factorial(n);
+        System.out.println(x);
+    }
+
+    public static int factorial (int n){
+        if(n > 0){
+            return n*factorial (n-1);
+        }
+        else{
+            return 1;
+        }
+    }
+}
+
+
+
+//task 2
+import java.util.Scanner;
+
+public class task2{
+    public static void main (String [] agrs){
+        Scanner Sc1 = new Scanner (System.in);
+        Scanner Sc2 = new Scanner (System.in);
+        
+        int base = Sc1.nextInt();
+        int exponent = Sc2.nextInt();
+
+        int x = power(base, exponent);
+        System.out.println(x);
+    }
+
+    public static int power(int base, int exponent){
+        if(exponent == 0){
+            return 1;
+        }
+        else{
+            return base*power(base, exponent-1);
+        }
+    }
+
+}
+
+
+
+
+//task 3
+import java.util.Scanner;
+
+public class task3{
+    public static void main (String [] agrs){
+        Scanner Sc1 = new Scanner (System.in);
+        Scanner Sc2 = new Scanner (System.in);
+
+        System.out.print("Length of array: ");
+        int L = Sc1.nextInt();
+
+        int [] arr = new int [L];
+        for(int i = 0; i < L; i++){
+            System.out.print("Enter array value: ");
+            int x = Sc1.nextInt();
+            arr [i] = x;
+        }
+
+        System.out.print("Index: ");
+        int index = Sc2.nextInt();
+
+        printElement(arr, index);
+    }
+
+    public static void printElement(int [] arr, int index){
+        if(index < arr.length){
+            System.out.println(arr[index]);
+            printElement(arr, index+1);
+        }
+        
+    }
+
+}
+
+
+
+
+//task 4
+import java.util.Scanner;
+
+public class task4{
+    public static void main (String [] agrs){
+        Scanner Sc = new Scanner (System.in);
+        int x = Sc.nextInt();
+
+        if(x >= 0){
+            System.out.println(fibonacci(x));
+        }
+    }
+
+    public static int fibonacci(int n){
+        if(n == 0){
+            return n;
+        }
+        else if(n == 1){
+            return n;
+        }
+        else{
+            return fibonacci(n-1)+fibonacci(n-2);
+        }
+    }
+
+}
 ```
 
 
