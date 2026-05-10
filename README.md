@@ -1,7 +1,7 @@
 # BracU-CSE110-2026
 <br>
 <H2><u>Assignment - 1</u></H2>
-<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/Assignment%2001-%20Introduction%20to%20Flowcharts%20and%20Java%20Programming.pdf" target="_blank">Questions</a>
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/Assignment%2001-%20Introduction%20to%20Flowcharts%20and%20Java%20Programming.pdf" target="_blank">Questions</a></H4>
   <H4>Solutions</H4>
   
 ```
@@ -73,6 +73,7 @@ public class answer5{
     }
 }
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass1.pdf" target="_blank">Tracing</a></H4>
 
   
 <H2><u>Assignment - 2</u></H2>
@@ -290,6 +291,7 @@ public class question6 {
     
 }
 ```
+<H4><a href =""https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass2.pdf>Tracing</a></H4>
 
 
 
@@ -549,6 +551,7 @@ public class question8{
 }
 
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass3.pdf">Tracing</a></H4>
 
 
 
@@ -720,6 +723,7 @@ public class task4{
   }
 }
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass4.pdf">Tracing</a></H4>
 
 
 
@@ -928,6 +932,7 @@ public class ques7{
 }
 
 ```
+<H4>[No Tracing :>]</H4>
 
 
 
@@ -936,8 +941,9 @@ public class ques7{
   <H4>Solutions</H4>
   
 ```
-
+I lost my codes :<
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass6.pdf">Tracing</a></H4>
 
 
 
@@ -1163,6 +1169,7 @@ public class q5 {
     }
 }
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass7.pdf">Tracing</a></H4>
 
 
 
@@ -1461,6 +1468,7 @@ public class q3b{
 }
 
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass8.pdf">Tracing</a></H4>
 
 
 
@@ -1586,6 +1594,7 @@ public class task4{
 
 }
 ```
+<H4><a href ="https://github.com/RSK48/BracU-CSE110-2026/blob/main/ass9.pdf">Tracing</a></H4>
 
 
 
